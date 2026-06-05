@@ -79,6 +79,144 @@ print(me.motto())
 
 <div align="center">
 
+<a href="https://github.com/Ganesh5757">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ganesh5757&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+</a>
+<a href="https://github.com/Ganesh5757">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh5757&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+</a>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ganesh5757&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ganesh5757&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Ganesh5757)
+
+</div>
+
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Ganesh5757&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Ganesh5757)
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+<details>
+<summary>🔬 <strong>SRMIST</strong> — CEM Research Intern · Jan 2026 – Apr 2026 · Kattankulathur</summary>
+
+> `Python` `LSTM` `SHAP` `Battery Management Systems` `AIML` `Streamlit`
+
+- Contributed to research on **Volvo XC90 battery modification** under the CEM (Centre for Energy Management) lab.
+- Developed and evaluated **LSTM-based models** for estimating State of Charge (SOC) and State of Health (SOH).
+- Integrated **SHAP (SHapley Additive exPlanations)** for model interpretability, enabling explainable AI in BMS contexts.
+- Visualized results and model outputs using an interactive **Streamlit dashboard**.
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|:--------|:------|:-----------|
+| [**SOC & SOH Estimation**](#) | Python · LSTM · SHAP · Streamlit · Antigravity | Predicted battery state using deep learning + explainability layer; built for Volvo XC90 battery research at SRMIST CEM lab |
+| [**Facial Recognition — ESP-32 CAM**](#) | Python · C++ · AI · ESP-32 | Real-time facial recognition deployed on a low-cost embedded camera module; ran full inference on edge hardware |
+| [**RFID Attendance System**](#) | Python · Firebase · Blockchain AI | Automated attendance logging via RFID with cloud sync to Firebase and blockchain-backed tamper-proof records |
+| [**Miniature Traffic System**](#) | PCB · Timer IC 555 | Designed and fabricated a working traffic light controller using timer ICs and custom PCB layout |
+
+</div>
+
+---
+
+## 🏅 Achievements & Volunteering
+
+<div align="center">
+
+| 🎖️ | Achievement | Details |
+|:---:|:-----------|:--------|
+| 👑 | **Committee Head** — DSA SRMIST | Led Publicity & Social Media Domain · Aug 2025 – Apr 2026 · Managed reel shoots, help-desks, class-to-class promotions |
+| 🎯 | **Committee Member** — DSA SRMIST | Publicity & Social Media · Aug 2024 – Apr 2025 · Supported events: RENDEZVOUS, SHURU, JHALAK, MILAN |
+| 🙋 | **Volunteer** — DSA SRMIST | 1st year volunteer · Publicity Domain · Events: SHURU, JHALAK, ACE, MILAN |
+| 🌐 | **AIU Cultural Fest Volunteer** | Association of Indian Universities · Dec 2024 · Document verification & student coordination |
+| 📜 | **Verilog Fundamentals** | Udemy Certification |
+| 📜 | **VLSI Design & Programming** | Udemy Certification |
+| 📜 | **Digital Logic Design Fundamentals** | Udemy Certification |
+| 📜 | **8086 Microprocessor Fundamentals** | Udemy Certification |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|:-------|:-----------|:-----|:------|
+| B.Tech · ECE – Data Science | SRM IST, Kattankulathur | 2023 – 2027 | CGPA: 7.3 |
+| Class XII · CBSE (MPCB) | Velammal Int. School, Panchetti | 2023 | 72.6% |
+| Class X · CBSE | DAV School, Adambakkam, Chennai | 2021 | 80% |
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+```
+🔋 SOC & SOH Estimation  →  LSTM · SHAP · Battery Management Systems
+📡 Edge AI               →  ESP-32 · OpenCV · TensorFlow Lite
+🧮 VLSI & Verilog        →  RTL Design · Simulation · Synthesis
+🐍 Python Ecosystem      →  Streamlit · Pandas · Scikit-learn
+🔗 Blockchain            →  Smart Contracts · Decentralised Data Logging
+```
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganeshkumar-n)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ganesh5757)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nn3079@srmist.edu.in)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ganesh5757&color=70a5fd&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
 <a href="https://github.com/nn3079">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nn3079&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
